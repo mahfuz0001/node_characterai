@@ -32,6 +32,7 @@
     "puppeteer": "^19.11.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-extra-plugin-user-preferences": "^2.4.1",
     "uuid": "^9.0.0"
   },
   "homepage": "https://github.com/realcoloride/node_characterai#readme"
